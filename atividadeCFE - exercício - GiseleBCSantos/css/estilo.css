@@ -1,0 +1,94 @@
+/*cabeçalho*/
+header img{
+    height: 60px;
+    width: 70px;
+}
+
+header{
+    background-color: #89a3e5c4;
+    margin-bottom: 20px;
+}
+
+.login-carrinho li {
+    padding-right: 20px;
+}
+
+/*Conteudo principal*/
+main{
+    min-height: 500px;
+}
+
+/*banner*/
+#section-produtos h2{
+    font-weight: bold;
+    text-align: center;
+    background-color: #89a3e5c4;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+#section-produtos .card{
+    text-align: center;
+}
+
+#section-produtos{
+    margin-bottom: 50px;
+}
+
+
+/*Rodapé*/
+
+/*Botão Voltar topo*/
+
+/* página de login  */
+
+
+/* Formulário de cadastro*/
+
+footer{
+    text-align: center;
+    background-color: #89a3e5c4;
+}
+
+footer p {
+    font-weight: bold;
+    padding: 10px;
+}
+
+/* Botão voltar ao topo */
+#voltar-topo{
+    position: fixed;
+    bottom: 60px;
+    right: 50px;
+}
+
+/* página de login */
+#section-login{
+    margin-top: 100px;   
+}
+
+#section-login h1{
+    text-align: center;
+}
+
+#section-login input{
+    width: 100%;
+}
+
+#section-cadastro{
+    padding: 5px;
+    text-align: center;
+    background-color: #fff;
+}
+
+#form-cadastrar{
+    padding: 50px;
+    display: none;
+}
+
+.list-group-item{
+    border: none !important;
+    background-color: #89a3e5c4;
+    height: 55px;
+}
