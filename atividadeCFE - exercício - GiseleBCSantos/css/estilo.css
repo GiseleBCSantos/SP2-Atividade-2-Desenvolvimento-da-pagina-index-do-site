@@ -1,3 +1,7 @@
+*{
+    font-family: sans-serif;
+}
+
 /*cabeçalho*/
 header img{
     height: 60px;
@@ -91,4 +95,30 @@ footer p {
     border: none !important;
     background-color: #89a3e5c4;
     height: 55px;
+}
+
+
+
+/* Página quem somos */
+
+.quem-somos h1{
+    border-bottom: 1px solid black;
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+    font-size: 50px;
+    margin-bottom: 100px;
+    background-color: #89a3e5c4;
+}
+
+.quem-somos img{
+    width: 400px;
+    height: 350px;
+}
+
+.quem-somos .informacoes{
+    background-color: #89a3e5c4;
+    padding: 15px;
+    border-radius: 25px;
+    text-align: center;
 }
